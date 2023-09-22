@@ -1,6 +1,39 @@
+.meny {
+    background-color:none;
+    margin-left: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+}
+
+.meny ul{
+    display: inline-block;
+    justify-content: space-between 30px;
+
+}
+
+.meny ul li{
+    display: inline-block;
+    justify-content: space-between 30px;
+    padding: 7px;
+}
+
+.meny ul li a{
+    display: inline-block;
+    justify-content: space-between 30px;
+    text-decoration: none ;
+    font-size: 20px;
+    color: #707070;
+
+}
+
+
+
 h2{
     color: #EC9320;
-    text-align: center;
+    text-align: left;
+   margin-left: 250px;
  
 }
 p{
@@ -8,6 +41,15 @@ p{
     text-align: center;
 }
 
+.bilder{
+    align-items: center;
+}
 
+.piler{
+    text-align: center;
+    color: #707070;
+}
 
-
+img{
+    align-items: center;
+}
